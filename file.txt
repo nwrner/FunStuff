@@ -1,0 +1,1050 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+ <html lang="en" class="no-js"><!--<![endif]-->
+ 
+    <head>
+     <meta name="description" content="United States Department of Agriculture Food Composition Databases">
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Food Composition Databases Show Foods Listblood sausage</title>
+        <link rel="shortcut icon" href="/ndb/assets/favicon-586b9f862ff9b9e158afa1e50eb9a8e3.ico" type="image/vnd.microsoft.icon" />
+    <script src="/ndb/assets/application-be3f7a9c00527159ebeff298ffd6ffc8.js" type="text/javascript" ></script>
+<link rel="stylesheet" href="/ndb/assets/main-2558742e2f3d5c57cdc2bc6f3d20e080.css"/>
+        
+		
+ 
+    <script async type="text/javascript" id="_fed_an_ua_tag" src=" https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&subagency=ARS-NAL"></script>
+ <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-36442725-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-36442725-1');
+</script>
+      
+          
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="layout" content="main"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.full.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css">
+<link rel="stylesheet" href="/ndb/assets/select2-bootstrap.min-cbe5a07e0c636e527f7e7677bd0779d9.css"/>
+
+
+    </head>
+<body>
+
+<div class="header-wrapper clearfix">
+			<div class="header-content header-background">
+                <div class="site-info col-sm-12 col-xs-12">
+                <a href="http://www.usda.gov/" target="_blank" id="anch_0">
+                <img src="/ndb/assets/USDA-Logo-dda9ff0850b624759c06dd21914b0f67.jpg" style="float:left;padding:5px;" height="51" width="64" title="USDA Logo"/>
+                </a>
+                <span class="sitename-usda">United States Department of Agriculture
+                <br>Agricultural Research Service</span>
+                <br><span class="sitename-nal"> 
+               
+                	USDA Food Composition Databases
+                
+                 </span>
+                 </div>
+            </div>
+	</div>
+<div class="bodywrapper">
+
+ <div class="navbar navbar-default" role="navigation">
+<div class="container-fluid"> 
+<div class="navbar-header" >
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+<div class="navbar-collapse collapse navbar-responsive-collapse" >
+<ul  class="nav navbar-nav" >
+   
+       <li class="first leaf" role="presentation">
+   
+    <a href="/ndb/search/home/m_home" title="Go the NDL home page">Home</a>
+  </li>
+  
+  	<li role="presentation" class="active">
+  
+  		<a href="/ndb/search/list" name="menu-advanced" title="Browse the foods list">Food Search</a>
+  	</li>
+  	
+  		<li role="presentation">
+  	
+  		<a href="/ndb/nutrients/index" name="menu-advanced" title="Create a nutrients list report">Nutrient Search</a>
+  	</li>
+  	
+  		<li role="presentation">
+  	
+  	
+  		<a href="/ndb/beef/show" title="Use the ground beef calculator">Ground Beef Calculator</a>
+  	</li>
+	  <li class="dropdown"><a href="#" class="dropdown-toggle"  data-target="#" data-toggle="dropdown" target="_blank" role="button" aria-haspopup="true" title="Select Documentation and Help Items" aria-expanded="false">Documentation and Help<span class="caret"></span></a>
+		<ul class="dropdown-menu">
+  	 	<li  class="first leaf" >
+    	<a href="/ndb/doc/index" title="How to use the NDB API">Food Composition Databases API</a>
+    	</li>
+  
+    <li  class="leaf" >
+    	<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR-Legacy/SR-Legacy_Doc.pdf" title="View and download release documentation" target="_help">SR1 Documentation</a>
+    </li>
+    <li>
+    	<a href="/ndb/docs/BFPDB_Doc.pdf" title="View and download branded food products documentation" target="_help">USDA Branded Food Products Documentation</a>
+    </li>
+    
+  <li class="first leaf" >
+    	<a href="/ndb/help/index" title="Read help on how to use the website">Food Composition Databases Help</a>
+    </li>
+    </ul>
+    </li>
+       <li class="dropdown"><a href="#" class="dropdown-toggle" data-target="#" data-toggle="dropdown" target="_blank" role="button" aria-haspopup="true" title="Select Downloadable Files" aria-expanded="false">Downloads<span class="caret"></span></a>
+	<ul class="dropdown-menu">
+		<li >
+		<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/BFPDB/BFPD_db_07132018.zip" title="Download BFPD Access Files" tabindex="-1">BFPD Access Database Files</a>
+		</li>
+		<li >
+		<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/BFPDB/BFPD_csv_07132018.zip" title="CSV Files">BFPD ASCII Files</a>
+		</li>
+	</li>
+	
+  	 <li  class="leaf" >
+		<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR-Legacy/SR-Leg_DB.zip" title="Download SR Legacy Access Files">SR Legacy Access Database Files</a>
+    	</li>
+	<li  class="leaf" >
+		<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR-Legacy/SR-Leg_ASC.zip" title="Download SR CSV Files">SR Legacy ASCII Files</a>
+    	</li>
+	 </ul>
+		
+       
+    </li>
+     	<li>
+  		<a href="http://www.ars.usda.gov/main/docs.htm?docid=4445" title="Click to contact us">Contact Us</a>
+  	</li>
+       
+</ul>
+</div>
+</div>
+</div>
+
+   
+      
+        
+
+  
+<div class="wbox">
+	<form action="/ndb/search/search" method="post" name="quickform" id="quickform" >
+<input type="hidden" name="SYNCHRONIZER_TOKEN" value="ad7d6ace-541e-4d9c-87e8-b84e8d1ae931" id="SYNCHRONIZER_TOKEN" />
+<input type="hidden" name="SYNCHRONIZER_URI" value="/ndb/search/list" id="SYNCHRONIZER_URI" />
+			<input type="hidden" name="qt" value="" id="qt" />
+			
+
+            <div style="font-size:.9em;" id="helpDiv"></div>   
+            
+            <div class="container" style="width:125%;;padding:0px;">
+	    <br/>
+            <div class="row" >
+		<div class="col-md-3 inset-right">
+		<label for qlookup style="padding-left:5px;">Enter one or more keywords
+                        </label>
+            	<div class="btn-group">
+	           	<span class="value"><input type="text" class="searchbox ui-autocomplete-input" placeholder="For example: raw broccoli" value="blood sausage" title="Enter search terms" name="qlookup" id="qlookup" size="180" autocomplete="off" /></span>
+	        		
+                            <span id="searchclear" class="value">x</span>
+                        
+	    		</div>
+           </div>
+	    <div class="col-md-2 inset-right">
+           		<nobr><label for ds style="padding-left:5px;">Filter on Database</label></nobr>
+	    		<!--<select id="ds" name="ds" class="ds" title="Select a data source" >
+<option value="" selected="selected">All Databases ...</option>
+<option value="LI" >Label Insight</option>
+<option value="GDSN" >One World Sync</option>
+<option value="SR" >Standard Reference</option>
+</select>-->
+			<select id="ds" name="ds" onChange="updateFgcd(this)" class="ds" title="Select a Food Group" value="">
+			    <option value="">All Databases</option>
+			    <option value="SR" >Standard Reference</option>
+			    <option value="BF" >Branded Food Products</option>
+			</select>
+	    </div>
+	    <div class="col-md-3 inset-right" >
+	   <label for manu style="padding-left:5px;">Limit to Manufacturer</label>
+	   <br/><select class="manu" id="manu" name="manu"  value="" title="Search and select food manufacturer">
+  					<option value="" selected="selected"></option>
+				</select>
+	   </div>
+	    <div class="col-md-2 inset-right" style="padding-top:22px;">
+
+	    	<input type='submit'  value='Go' title="Submit your search" class="btn btn-primary btn-large" />
+                <input type='button' class="btn btn-default btn-large"  title="Start a new search" id='reset' value='Reset' />
+		<a href="/ndb/help/contextHelp/search" onclick="jQuery.ajax({type:'POST', url:'/ndb/help/contextHelp/search',success:function(data,textStatus){jQuery('#helpDiv').html(data);},error:function(XMLHttpRequest,textStatus,errorThrown){}});return false;" id="search" title="Tips on how to search"><span class="glyphicon glyphicon-question-sign" style="font-size: 20px;vertical-align:middle"></span></a>
+		     
+	    
+	    </div>
+	    
+	   </div>
+	  
+	   <div class="spacer15"></div>
+	   <div class="row" >
+	       <div class="col-md-3">
+		   &nbsp;<span class="glyphicon glyphicon-search"><a href="/ndb/search/advanced?qlookup=blood+sausage&amp;q=&amp;qp=&amp;qa=&amp;qn=&amp;ds=&amp;ing=&amp;fgcd=&amp;manu=" title="Search by keywords, data source, ingredients, manufacturers and food groups"></span>Advanced search</a>
+          
+	    </div>
+           </div>
+	      
+           </div>
+           <style type="text/css">
+     		.bigdrop.select2-container .select2-results {max-height: 300px;}
+			.bigdrop .select2-results {max-height: 300px;}
+     		</style>
+           <script>
+           $("#searchclear").click(function(){
+     			    $("#qlookup").val('');
+     			    document.quickform.submit();
+
+     			});
+         
+           $(document).ready(function() {
+                $("#reset").button();
+                $('#reset').bind('click', function() {
+                    $('#qlookup,#manu,#ds,#fg').val('').trigger('change');
+                });
+          		 $("#manu").select2({
+                         placeholder:"Select a manufacturer",
+                         allowClear:true,
+              		 ajax: {
+              		    url: "/ndb/search/manufacturers",
+              		    dataType: 'json',
+              		    delay: 250,
+              		    data: function (params) {
+              		      return {
+              		        m: params.term, // search term
+              		        q: 'blood sausage',
+              		        fgcd: '',
+				ds:'',
+              		        page: params.page
+              		      };
+              		    },
+              		 
+              		  processResults: function (data, params) {
+              		      // parse the results into the format expected by Select2
+              		      // since we are using custom formatting functions we do not need to
+              		      // alter the remote JSON data, except to indicate that infinite
+              		      // scrolling can be used
+              		      params.page = params.page || 1;
+              		    
+              		      return {
+              		        results: data.root.items,
+              		       
+              		      };
+              		    },
+              		    cache: true
+              		  },
+              		theme:"bootstrap",
+              		minimumInputLength: 3,
+                     templateResult: formatManu, // omitted for brevity, see the source of this page
+                     templateSelection: formatManuSelection, // omitted for brevity, see the source of this page
+                    /* dropdownCssClass: "bigdrop",*/ // apply css that makes the dropdown taller
+                     escapeMarkup: function (m) { return m; } // we do not want to escape markup since we are displaying html in results
+                 });
+           });
+           
+           function formatManu (manu) {
+        	      if (manu.loading) return manu.text;
+        	      var markup = "<div class='select2-result-manu clearfix'>" +
+        	      "<div class='select2-result-manu__meta'>"+
+        	          "<div class='select2-result-manu__name]'>" + manu.id + "</div></div></div>";
+        	      return markup;
+        	    }
+
+        	    function formatManuSelection (manu) {
+        	      return manu.id?manu.id:"";
+        	    }
+                    
+     		</script>
+     		
+			
+			
+			    
+			    
+ 
+<div  class="alert alert-info result-message">
+    
+	2,956 foods found&nbsp;Click on a food name to view details
+    
+</div>
+
+<div class="paginateButtons">
+    <span class="currentStep">1</span><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=25&amp;order=asc" class="step">2</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=50&amp;order=asc" class="step">3</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=75&amp;order=asc" class="step">4</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=100&amp;order=asc" class="step">5</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=125&amp;order=asc" class="step">6</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=150&amp;order=asc" class="step">7</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=175&amp;order=asc" class="step">8</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=200&amp;order=asc" class="step">9</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=225&amp;order=asc" class="step">10</a><span class="step gap">..</span><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=2950&amp;order=asc" class="step">119</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=25&amp;order=asc" class="nextLink">Next</a>
+ </div>
+
+    <div class="list-left">
+	<table class="table table-bordered table-striped table-fixed-header table-hover">
+	<thead>
+	<tr style="font-size: 1.1em;">
+            <th title="Database Source">DB</th>
+	    <th style="width:5%;" id="ndl.foods.nbno.label" class="asc" ><a href="/ndb/search/list?format=&amp;count=&amp;max=25&amp;sort=ndb_s&amp;fgcd=&amp;manu=&amp;qlookup=blood+sausage&amp;order=desc&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Sort by NDB Id">NDB Id</a></th>
+		<th style="width:60%;" id="ndl.foods.description.label" class="asc" ><a href="/ndb/search/list?format=&amp;count=&amp;max=25&amp;sort=fd_s&amp;fgcd=&amp;manu=&amp;qlookup=blood+sausage&amp;order=desc&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Sort by Description">Food Description</a></th>
+                
+		    <th>Food Group or Manufacturer</th>
+		
+	</tr>
+	</thead>
+	<tbody>
+	
+	
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    SR
+		     
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/07005?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    07005 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/07005?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    Blood sausage
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=Sausages+and+Luncheon+Meats&amp;manu=&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this food group">Sausages and Luncheon Meats</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45272532?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45272532 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45272532?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    MORCILLA BLOOD SAUSAGE, UPC: 041331091510
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=GOYA+FOODS%2C+INC.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">GOYA FOODS, INC.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45296280?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45296280 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45296280?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD ORANGE, UPC: 851818001006
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Dry+Soda+Co.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Dry Soda Co.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45151747?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45151747 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45151747?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD ORANGE, UPC: 041755701811
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Langer+Juice+Company%2C+Inc.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Langer Juice Company, Inc.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45001626?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45001626 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45001626?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD ORANGE SORBET, UPC: 5051379071349
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=FRESH+%26+EASY&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">FRESH &amp; EASY</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45284815?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45284815 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45284815?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    SICILIAN BLOOD ORANGE, UPC: 825325910175
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Forever+Cheese&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Forever Cheese</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45235384?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45235384 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45235384?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD MARY COCKTAIL SAUCE, UPC: 688267052545
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Ahold+USA%2C+Inc.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Ahold USA, Inc.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45208318?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45208318 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45208318?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD RED SPARKLE GEL, UPC: 070896771124
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Wilton+Enterprises+Inc&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Wilton Enterprises Inc</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45136963?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45136963 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45136963?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    HUBERT&#39;S, LEMONADE, BLOOD ORANGE, UPC: 070847021902
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Monster+energy+company&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Monster energy company</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45353949?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45353949 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45353949?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    NITRO BLOOD ORANGE COFFEE, UPC: 864421000373
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=none&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">none</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45268699?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45268699 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45268699?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    SPARKLING BLOOD ORANGE, UPC: 787984575433
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=none&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">none</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45093793?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45093793 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45093793?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD ORANGE MARMALADE, UPC: 8017139100299
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Cfl&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Cfl</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45237619?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45237619 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45237619?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    DRY, BLOOD ORANGE SODA, UPC: 851818001648
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Dry+Soda+Co.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Dry Soda Co.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45199788?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45199788 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45199788?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD ORANGE VINAIGRETTE, UPC: 639246061003
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=WINE+COUNTRY+KITCHENS&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">WINE COUNTRY KITCHENS</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45351071?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45351071 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45351071?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    CARAMELIZED BLOOD ORANGE, UPC: 846107018087
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=none&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">none</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45205921?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45205921 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45205921?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD ORANGE SHRUB, UPC: 852514004056
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=none&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">none</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45205515?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45205515 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45205515?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD ORANGE (CONCENTRATE)*, UPC: 675191150102
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=none&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">none</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45217452?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45217452 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45217452?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD ORANGE SPARKLING, UPC: 725439980999
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Delhaize+America%2C+Inc.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Delhaize America, Inc.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45229572?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45229572 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45229572?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    SPARKLING BLOOD ORANGE BEVERAGE, UPC: 041508300889
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Sanpellegrino+Usa%2C+Inc.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Sanpellegrino Usa, Inc.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45209748?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45209748 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45209748?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    SICILIAN BLOOD ORANGE SORBETTO, UPC: 030034076047
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Giant+Eagle%2C+Inc.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Giant Eagle, Inc.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45372320?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45372320 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45372320?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    BLOOD ORANGE VINAIGRETTE &amp; MARINADE, UPC: 852486008106
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=ORGANICVILLE&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">ORGANICVILLE</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45214360?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45214360 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45214360?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    MINI BLOOD SUCKERS, UPC: 049022784253
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=WALGREENS+CO.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">WALGREENS CO.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45359100?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45359100 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45359100?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    SICILIAN BLOOD ORANGE, UPC: 8017139100725
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Cfl&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Cfl</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="even">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45283566?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45283566 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45283566?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    SPARKLING BLOOD ORANGE GINGERBREAD SODA, UPC: 725439991117
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Delhaize+America%2C+Inc.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Delhaize America, Inc.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+	    
+	       
+	    
+	    <tr style="line-height: 1.2em;" class="odd">
+		<td> <span class="badge">
+		    BF
+		    
+		    </span>
+		</td>
+		<td>
+		    <a href="/ndb/foods/show/45214210?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    45214210 </a>
+		</td>
+		<td style="font-style:;">
+		    <a href="/ndb/foods/show/45214210?fgcd=&amp;manu=&amp;format=&amp;count=&amp;max=25&amp;offset=&amp;sort=default&amp;order=asc&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=" title="Click to view reports for this food">
+		    CRANBERRY BLOOD ORANGE, JUICE COCKTAIL, UPC: 041755008637
+		    </a>
+		</td>
+		<td>
+		    
+		     <a href="/ndb/search/list?fgcd=&amp;manu=Langer+Juice+Company%2C+Inc.&amp;lfacet=&amp;count=&amp;max=25&amp;ds=&amp;sort=default&amp;offset=0&amp;format=&amp;new=1" name="search" title="Display all foods from this manufacturer">Langer Juice Company, Inc.</a>
+		    
+		</td>
+	    </tr>
+	    
+    
+</tbody>
+</table>
+</div>
+<div class="paginateButtons">
+    <span class="currentStep">1</span><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=25&amp;order=asc" class="step">2</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=50&amp;order=asc" class="step">3</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=75&amp;order=asc" class="step">4</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=100&amp;order=asc" class="step">5</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=125&amp;order=asc" class="step">6</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=150&amp;order=asc" class="step">7</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=175&amp;order=asc" class="step">8</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=200&amp;order=asc" class="step">9</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=225&amp;order=asc" class="step">10</a><span class="step gap">..</span><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=2950&amp;order=asc" class="step">119</a><a href="/ndb/search/list?maxsteps=6&amp;format=&amp;count=&amp;max=25&amp;sort=default&amp;fgcd=&amp;manu=&amp;lfacet=&amp;qlookup=blood+sausage&amp;ds=&amp;qt=&amp;qp=&amp;qa=&amp;qn=&amp;q=&amp;ing=&amp;offset=25&amp;order=asc" class="nextLink">Next</a>
+    </div>
+
+
+				
+			</div>
+	</form>
+	<script>
+     	 $(document).ready(function() {
+         	 $('#create_submit').button();
+     		 $("#qlookup").autocomplete({
+     		  source: function(request, response){
+     		   $.ajax({
+     		   url:"/ndb/search/autosuggest?manu=&ingred=&ds=&fgcd=",
+		    data: request,
+     		    type: 'get',
+     		    success: function(data){
+     		     response(data); // set the response
+     		    },
+     		    error: function(){ // handle server errors
+     		      $.jGrowl("Unable to retrieve Companies", {
+     		       theme: 'ui-state-error ui-corner-all'   
+     		      });
+     		    
+     		    }
+     		   });
+     		  },
+     		 
+     		  minLength: 3, // triggered only after minimum 2 characters have been entered.
+     		  select: function(event, ui) { // event handler when user selects a company from the list.
+     		   $("#id").val(ui.item.id); // 
+     		   $("#qlookup").val(ui.item.value); // populate the search field .
+		   document.location.href = '/ndb/search/list/?manu=&fgcd=&ds=&qlookup='+ui.item.value;
+			
+     		    //document.location.href = '/ndb/foods/show/'+ui.item.id+'?manu=&fgcd=&ds=&q='+ui.item.value;
+				}
+		});
+		});
+		$(function() {
+			$("#helpDiv").dialog({
+				width : 400,
+				resizable : true,
+				modal:true,
+				title : "Search Tip",
+				autoOpen : false,
+				buttons: {
+			        Close: function() {
+			            $(this).dialog('close');
+			        } 
+				}
+			});
+			$("#search").click(function() {
+				$("#helpDiv").dialog("open");
+			});
+		});
+		$('#fgcd').change(function() {
+			$('#quickform').trigger('submit');
+		});
+		$('#manu').change(function() {
+			$('#quickform').trigger('submit');
+		});
+		$('#ds').change(function() {
+			$('#quickform').trigger('submit');
+		});
+	</script>
+
+ </div>
+        <footer>
+         <small>  
+         <div  class="region region-footer" >
+        <section id="block-block-1"  class="block block-block footer clearfix">
+        
+			USDA Food Composition Databases
+			
+		<br/>
+			 <a href="http://www.nal.usda.gov">Software developed by the National Agricultural Library</a> v.3.9.5.1_2018-12-14 
+		 <br/>
+		 <a href="http://www.nal.usda.gov">NAL Home</a> | <a href="http://www.usda.gov" target="_blank">USDA.gov</a> | <a href="http://www.ars.usda.gov" target="_blank">Agricultural Research Service</a> | <a href="http://www.usda.gov/wps/portal/usda/usdahome?navid=PLAIN_WRITING">Plain Language</a> | <a href="http://www.ars.usda.gov/Services/docs.htm?docid=1398" target="_blank">FOIA</a> | <a href="http://www.usda.gov/wps/portal/usda/usdahome?navtype=FT&amp;navid=ACCESSIBILITY_STATEM" target="_blank">Accessibility Statement</a> | <a href="http://www.ars.usda.gov/Main/docs.htm?docid=8040" target="_blank">Information Quality</a> | <a href="http://www.ars.usda.gov/disclaim.html#Privacy" target="_blank">Privacy Policy</a> | <a href="http://www.usda.gov/wps/portal/usda/usdahome?navtype=FT&amp;navid=NON_DISCRIMINATION" target="_blank">Non-Discrimination Statement</a> | <a href="http://www.usa.gov" target="_blank">USA.gov</a> | <a href="http://www.whitehouse.gov" target="_blank">White House</a></p>	 
+		</section>
+		</div>
+		</small>
+		</footer>
+		
+		
+    </body>
+    <div  id="spinner" class="progress" style="display:none;height:100%;">
+	<div class="progress-bar progress-bar-striped active" role="progressbar" style="width:100%;">
+	<span class="sr-only">Updating</span><h4>Updating...</h4>
+	</div>
+    </div>
+</html>
